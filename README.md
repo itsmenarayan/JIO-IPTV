@@ -36,6 +36,8 @@
 - [IPTV Smarters Pro](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox&hl=en) - Media Player App For Android TV, Android Phone and Android Tab.
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
+# 📘 Note:
+🚨 Sometimes, M3U Can Buffer Due To High Traffic
+
 # 💛 Contact Me:
-<b>📧 Gmail: sabbirhasan10000bd@gmail.com</b> <br/>
-<b>💡 Facebook: https://tinyurl.com/sabbirfacebook</b>
+<a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
