@@ -2,7 +2,7 @@
   <img alt="cgapp logo" src="https://i.ibb.co/m9MGMMn/ezgif-2-280931415e.jpg" width="224px"/><br/>
   ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">JIO IPTV</a> ⭐️
 </h1>
-<p align="center">An M3U File Containing <b>Free</b> Streamable Links</p>
+<p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
 
 # ▶️ How To Play:
 
