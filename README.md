@@ -38,6 +38,7 @@
 
 # 📘 Note:
 🚨 Sometimes, M3U Can Buffer Due To High Traffic
+🚨 Currently, My Exam Is On So Please Pray
 
 # 💛 Contact Me:
 <a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
