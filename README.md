@@ -37,7 +37,7 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 Wait, 5-10 Seconds For Playing Channel <br>
+🚨 Wait, 5-10 Seconds For Playing Channels <br>
 🚨 Now, I Will Try To Give Daily Update
 
 # 💛 Contact Me:
