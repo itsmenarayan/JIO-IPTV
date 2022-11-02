@@ -38,7 +38,6 @@
 
 # 📘 Note:
 🚨 M3U Will Get An Update Tommorow <br>
-🚨 New, JIO Server Added
 
 # 💛 Contact Me:
 <a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
