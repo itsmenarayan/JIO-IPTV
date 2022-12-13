@@ -2,6 +2,12 @@
 # Scraped By (https://github.com/sabbiriptv)
 # This M3U Will Not Work On Some IPTV Players As It Uses Referer Values
 
+https://1984-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/play.php?c=Sports18_1_HD
+
+#EXTINF:-1 tvg-id="430" group-title="Sports-SabbirIPTV" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",Jio Cricket HD
+#EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=Sports18_1_HD
+https://tvstream.fun/jtv/auto_quality.php?c=Sports18_1_HD
+#EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=Sports18_1_HD
 #EXTINF:-1 tvg-id="430" group-title="Sports-SabbirIPTV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket HD
 #EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=Jio_Cricket
 https://tvstream.fun/jtv/auto_quality.php?c=Jio_Cricket
