@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/jiotv/epg.xml"
 # Collected And Uploaded By (https://github.com/sabbiriptv)
 
+#EXTINF:-1 group-title="Sports-SabbirIPTV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Sports 18 HD
+https://1984-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/autoq.php?c=Sports18_1_HD
 #EXTINF:-1 tvg-id="430" group-title="Sports-SabbirIPTV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket HD
 https://1984-172-105-253-27.in.ngrok.io/STREAM-KING-LIVE/autoq.php?c=Jio_Cricket
 #EXTINF:-1 tvg-id="1918" group-title="Sports-SabbirIPTV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",Jio Cricket English HD
