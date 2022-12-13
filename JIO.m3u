@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/jiotv/epg.xml"
 # Scraped By (https://github.com/sabbiriptv)
+# This M3U Will Not Work On Some IPTV Players As It Uses Referer Values
 
 #EXTINF:-1 tvg-id="430" group-title="Sports-SabbirIPTV" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket HD
 #EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=Jio_Cricket
