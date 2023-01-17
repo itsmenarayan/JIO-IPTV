@@ -1,3 +1,5 @@
+<h2 align="center">Now I Am A Little Bit Busy With My Study So No Updates For This Month</h2>
+
 <h1 align="center">
   <img alt="cgapp logo" src="https://i.ibb.co/m9MGMMn/ezgif-2-280931415e.jpg" width="224px"/><br/>
   ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">JIO IPTV</a> ⭐️
