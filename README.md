@@ -1,4 +1,5 @@
 <h2 align="center"><a href="https://jiotvweb.vercel.app/">Watch Online</a></h2>
+<h2 align="center">DM Me In Discord: SabbirHasan#6976</h2>
 <h2 align="center">JIO Is Banning Scripts Rapidly. Very Few Servers Are Now Working 😓</h2>
 <h2 align="center">This Server Is Pretty Slow I Will Add Another Server Tomorrow</h2>
 
