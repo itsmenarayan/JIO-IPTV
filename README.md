@@ -39,9 +39,8 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 These Are Not My SERVER's So I Am Not Responsible For Any Buffering Issues
+🚨 Current SERVER Uses Token In It's API, I Am Working To Fix It
 <br>
-🚨 As I Am Using Free Hosting In (JIO_Backup.m3u) It Might Be Slow
 
 # 💛 Contact Me:
 <a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
