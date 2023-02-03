@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://meralund.com//epg.xml.gz"
 # Made By (https://www.github.com/sabbiriptv)
-# Based On (NoxTV API)
 
 #EXTINF:-1 tvg-id="0" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="JIO-SabbirIPTV",Jio Cricket English HD
 https://jio-sabbiriptv.vercel.app/JIO?id=1918&token=SabbirIPTV
