@@ -39,7 +39,8 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 Current SERVER Uses Token In It's API, I Am Working To Fix It
+🚨 (JIO.m3u) Uses Token
+🚨 (JIO-Backup.m3u) Doesn't Require Token
 <br>
 
 # 💛 Contact Me:
