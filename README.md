@@ -1,4 +1,5 @@
-<h2 align="center">JIO Is Banning Scripts Rapidly. Very Few Servers Are Now Working 😓</h2>
+<h2 align="center">My Free Hosting Account Banned</h2>
+<h2 align="center">If Someone Gives Me Hosting To Host Python Web App's Then I Can RE-Open The M3U</h2>
 
 <h1 align="center">
   <img alt="cgapp logo" src="https://i.ibb.co/m9MGMMn/ezgif-2-280931415e.jpg" width="224px"/><br/>
@@ -39,7 +40,7 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 Current API Is Based On Another API By <strong>NitroX</strong>
+🚨 Hosting Expired
 <br>
 
 # 💛 Contact Me:
