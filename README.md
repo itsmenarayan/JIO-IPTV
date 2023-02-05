@@ -1,5 +1,7 @@
 <h2 align="center">My Free Hosting Account Banned</h2>
 <h2 align="center">If Someone Gives Me Hosting To Host Python Web App's Then I Can RE-Open The M3U</h2>
+<h2 align="center">DM Me On Discord: SabbirHasan#6976</h2>
+<h2 align="center">DM Me On Telegram: https://t.me/abuwahabis</h2>
 
 <h1 align="center">
   <img alt="cgapp logo" src="https://i.ibb.co/m9MGMMn/ezgif-2-280931415e.jpg" width="224px"/><br/>
