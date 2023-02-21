@@ -1,8 +1,3 @@
-<h2 align="center">My Free Hosting Account Banned</h2>
-<h2 align="center">If Someone Gives Me Hosting To Host Python Web App's Then I Can RE-Open The M3U</h2>
-<h2 align="center">DM Me On Discord: SabbirHasan#6976</h2>
-<h2 align="center">DM Me On Telegram: https://t.me/abuwahabis</h2>
-
 <h1 align="center">
   <img alt="cgapp logo" src="https://i.ibb.co/m9MGMMn/ezgif-2-280931415e.jpg" width="224px"/><br/>
   ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">JIO IPTV</a> ⭐️
@@ -42,8 +37,10 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 Hosting Expired
+🚨 NitroX SERVER Added 
 <br>
 
 # 💛 Contact Me:
 <a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
+<h2 align="center">DM Me On Discord: SabbirHasan#6976</h2>
+<h2 align="center">DM Me On Telegram: https://t.me/abuwahabis</h2>
