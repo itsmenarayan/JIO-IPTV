@@ -37,7 +37,7 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 NitroX SERVER Added 
+🚨 MadPlay SERVER Isn't That Fast
 <br>
 
 # 💛 Contact Me:
