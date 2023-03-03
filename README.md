@@ -37,7 +37,7 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 MadPlay SERVER Isn't That Fast
+🚨 MadPlay SERVER Is Not That Fast
 <br>
 
 # 💛 Contact Me:
