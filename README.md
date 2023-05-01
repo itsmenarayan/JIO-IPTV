@@ -38,8 +38,7 @@
 
 # 📘 Note:
 🚨 Sorry For Late Update <br>
-🚨 I Am A Bit Busy
-<br>
+🚨 I Am A Bit Busy <br>
 
 # 💛 Contact Me:
 <a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
