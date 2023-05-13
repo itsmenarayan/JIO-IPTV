@@ -37,6 +37,7 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
+🚨 LiveSportsClub SERVER Added (SUPER FAST 🚀)
 🚨 Backup SERVER Added <br>
 🚨 I Have An Exam Soon, Wish Me Best Of Luck 💗
 
