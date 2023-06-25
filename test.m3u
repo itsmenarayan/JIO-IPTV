@@ -1,0 +1,45 @@
+#EXTM3U x-tvg-url="https://meralund.com//epg.xml.gz"
+# Collected Exclusivly By SabbirIPTV
+# Visit (https://github.com/sabbiriptv) For More
+# Server Credit Goes To MadPlay (Thanks ♥)
+# Completly RE-Scraped + EPG Added
+
+
+
+#EXTINF:-1 tvg-id="18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids - SabbirIPTV",Nick Hindi
+https://madplay.live/jiotv/app/live/545/null/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids - SabbirIPTV",Pogo Hindi
+https://madplay.live/jiotv/app/live/559/null/index.m3u8
+#EXTINF:-1 tvg-id="23" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids - SabbirIPTV",Cartoon Network Hindi
+https://madplay.live/jiotv/app/live/816/null/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids - SabbirIPTV",Sonic Hindi
+https://madplay.live/jiotv/app/live/815/null/index.m3u8
+#EXTINF:-1 tvg-id="128" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids - SabbirIPTV",Sony Yay Hindi
+https://madplay.live/jiotv/app/live/872/null/index.m3u8
+#EXTINF:-1 tvg-id="129" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids - SabbirIPTV",Nickelodeon
+https://madplay.live/jiotv/app/live/547/null/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Kids - SabbirIPTV",Nick Tamil
+https://madplay.live/jiotv/app/live/546/null/index.m3u8
+#EXTINF:-1 tvg-id="131" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Kids - SabbirIPTV",Pogo Tamil
+https://madplay.live/jiotv/app/live/542/null/index.m3u8
+#EXTINF:-1 tvg-id="132" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids - SabbirIPTV",CN HD+ English
+https://madplay.live/jiotv/app/live/1079/null/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Kids - SabbirIPTV",Cartoon Network Tamil
+https://madplay.live/jiotv/app/live/817/null/index.m3u8
+#EXTINF:-1 tvg-id="134" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Kids - SabbirIPTV",Nick Telugu
+https://madplay.live/jiotv/app/live/543/null/index.m3u8
+#EXTINF:-1 tvg-id="135" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids - SabbirIPTV",Discovery Kids 2
+https://madplay.live/jiotv/app/live/554/null/index.m3u8
+#EXTINF:-1 tvg-id="136" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids - SabbirIPTV",Nick Junior
+https://madplay.live/jiotv/app/live/544/null/index.m3u8
+#EXTINF:-1 tvg-id="407" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Kids - SabbirIPTV",Sony Yay Telugu
+https://madplay.live/jiotv/app/live/874/null/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Kids - SabbirIPTV",Sony Yay Tamil
+https://madplay.live/jiotv/app/live/873/null/index.m3u8
+#EXTINF:-1 tvg-id="409" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids - SabbirIPTV",Nickelodeon Jr.
+https://madplay.live/jiotv/app/live/548/null/index.m3u8
+#EXTINF:-1 tvg-id="410" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Kids - SabbirIPTV",CN HD+ Tamil
+https://madplay.live/jiotv/app/live/1081/null/index.m3u8
+#EXTINF:-1 tvg-id="411" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="Kids - SabbirIPTV",Kochu TV
+https://madplay.live/jiotv/app/live/556/null/index.m3u8
+#EXTINF:-1 tvg-id="412" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Kids - SabbirIPTV",CN HD+ Telugu
